@@ -6,12 +6,7 @@ const AccordionComponent = function () {
 
   const [selectedIndex, setSelectedIndex] = useState(-1);
 
-  const handleClick = (index: number) => {
-    if (selectedIndex == index)
-      setSelectedIndex(-1);
-    else
-      setSelectedIndex(index);
-  }
+  
 
   // create an array of objects with the id, trigger element (eg. button), and the content element
   const contents = [
