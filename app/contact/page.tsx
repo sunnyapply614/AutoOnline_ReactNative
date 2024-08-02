@@ -27,11 +27,7 @@ export default function Home() {
                             <Link href={CALL_TO} className="text-white text-[16px] text-center mt-5">{PHONE_NUMBER}</Link>
                         </div>
 
-                        <div className='flex flex-col items-center'>
-                            <FaEnvelope className='h-10 w-10 mr-2 inline-block text-white' />
-                            <h3 className="uppercase text-white text-[18px] font-bold text-center mt-10">EMAIL</h3>
-                            <Link href={CALL_TO} className="text-white text-[16px] text-center mt-5">{EMAIL_ADDRESS}</Link>
-                        </div>
+                        
                     </div>
                 </div>
 
