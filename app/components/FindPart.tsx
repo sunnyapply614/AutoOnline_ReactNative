@@ -1,4 +1,16 @@
+"use client"
 
+import { CALL_TO, ENGINE_SIZES, MAKE, PART, PHONE_NUMBER, TRANSMISSION, YEAR } from "../config"
+import { useState, useRef, createRef } from "react";
+import { ChangeEvent } from "react";
+import Link from "next/link";
+import { FaPhone } from "react-icons/fa";
+import { useRouter } from "next/navigation";
+
+interface Props {
+    selectedMake: string;
+    selectedPart: string;
+}
 
 const FindPart: React.FC<Props> = ({ selectedMake, selectedPart }) => {
 
