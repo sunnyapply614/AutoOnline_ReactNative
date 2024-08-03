@@ -29,15 +29,8 @@ export async function POST(req: Request) {
             }
         );
         const captchaValidation = await response.json();
-        /**
-         * The structure of response from the veirfy API is
-         * {
-         *  "success": true|false,
-         *  "challenge_ts": timestamp,  // timestamp of the challenge load (ISO format yyyy-MM-dd'T'HH:mm:ssZZ)
-         *  "hostname": string,         // the hostname of the site where the reCAPTCHA was solved
-         *  "error-codes": [...]        // optional
-          }
-         */
+
+        
         if (captchaValidation.success) {
             // Replace this with the API that will save the data received
             // to your backend
