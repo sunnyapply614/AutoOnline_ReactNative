@@ -101,4 +101,4 @@ const AccordionComponent = function () {
   )
 }
 
-export default AccordionComponent;
+
