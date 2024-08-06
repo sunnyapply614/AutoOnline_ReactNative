@@ -31,9 +31,7 @@ export default function Home() {
                 <Image src="/engine.webp" width={203} height={231} alt="used car engines for sale" className="self-start"/>
 
                 {/* <h2 className="font-sans text-[#002E5B] text-[25px] font-extrabold uppercase mt-10">Top Quality Used Engines</h2>
-                <p className="text-[#686868] text-[17px] mt-8">Your mechanic has called to inform you that you require an engine! Please relax, we’ll lead you to get rid of this situation. We deliver one of the finest quality used engines on the market. Best of all, we’ll save you a lot of money! To get started, check out our used engine list below, and we will contact you with bids on the used engines you require.</p>
-                <p className="text-[#686868] text-[17px] mt-8">When you buy a used engine from us, you obtain an engine which would be gauranteed to work. We take great delight in supporting every client with whom we talk. We will not only ensure that you can “drive that additional mile”, but we will also go the extra mile for you in terms of service and happiness! Quality Mileage Used Engines are available from us. If the engine or transmission you desire is not in stock, we can locate it for you!</p>
-
+               
                 <h2 className="font-sans text-[#002E5B] text-[25px] font-extrabold uppercase mt-10">Used Auto Engines / Used Truck Engines</h2>
                 <p className="text-[#686868] text-[17px] mt-8">With our wide selection of engines for passenger cars as well as light and medium-heavy trucks, we offer an engine to fit any late model vehicle. In the link below you will find a comprehensive list of models that are supported by us</p>
                 <p className="text-[#686868] text-[17px] mt-8">Remember that when acquiring a used engine, you must ensure that the mileage is accurate. Before you buy any old engine, get a FREE Vehicle History Report! This might end up saving you hundreds of dollars in the long term!</p>
