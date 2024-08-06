@@ -43,7 +43,7 @@ export default function FAQ() {
                     {/* <p className='mb-2 text-text-primary  text-[20px]'>Directly Number - <Link href={CALL_TO_CUSTOMER} className="text-primary font-semibold hover:underline">{CUSTOM_PHONE_ADDR}</Link></p> */}
                     {/* <p className='mb-2 text-text-primary  text-[20px] break-all text-center'>*************************************************************************************</p> */}
                 </div>
-                {/* <AccordionComponent /> */}
+           
             </div>
         </main >
     )
