@@ -35,9 +35,6 @@ export default function Home() {
                <p className="text-[#686868] text-[17px] mt-8">Once you’ve found the perfect used motor for your vehicle, check out your shopping cart or phone one of our customer service specialists. After searching for “used engines near me” and visiting our website, enter your vehicle’s year, make, and model to identify the matching engine code and place your order.</p>
                 <p className="text-[#686868] text-[17px] mt-8">You can have your vehicle back on the road in no time with our quick and easy shipping. We offer free pickup or delivery, so all you need to do is pick up from one of many locations around town!</p>
 
-                <h2 className="font-sans text-[#002E5B] text-[25px] font-extrabold uppercase mt-10">Engines, Transmissions And Other Auto Parts</h2>
-                <p className="text-[#686868] text-[17px] mt-8">Used Auto Parts Pro is the place to go if you need used auto parts. We have an extensive inventory of all makes and models, so we can help restore your vehicle with just what it needs!</p>
-
                 <p className="text-[#686868] text-[17px] mt-10">We Carry Engines for the following Makes listed below:</p>
 
                 <ul className="grid lg:grid-cols-3 grid-cols-2 gap-2 mt-8 ml-4 list-disc list-inside">
