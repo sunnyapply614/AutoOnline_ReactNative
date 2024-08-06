@@ -31,9 +31,7 @@ export default function Home() {
                 <Image src="/engine.webp" width={203} height={231} alt="used car engines for sale" className="self-start"/>
 
                 {/* <h2 className="font-sans text-[#002E5B] text-[25px] font-extrabold uppercase mt-10">Top Quality Used Engines</h2>
-               
-                <p className="text-[#686868] text-[17px] mt-10">We Carry Engines for the following Makes listed below:</p>
-
+                            
                 <ul className="grid lg:grid-cols-3 grid-cols-2 gap-2 mt-8 ml-4 list-disc list-inside">
                     {
                         ENGINES.map((item, index) => (
