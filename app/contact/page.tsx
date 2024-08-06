@@ -4,7 +4,13 @@ import { FaPhone, FaEnvelope } from 'react-icons/fa'
 import { CALL_TO, EMAIL_ADDRESS, PHONE_NUMBER } from '../config'
 import { SendMailForm } from '../components/SendMailForm'
 
-
+export const metadata = {
+    title: "Let's Connect and Make Things Happen | Used Auto Parts Pro",
+    description: "Need help or have questions? Our friendly team is here to provide exceptional service and support. Contact us for assistance. Let's connect and achieve together.",
+    alternates: {
+        canonical: 'https://usedautoparts.pro/contact'
+      }
+  }
 
 export default function Home() {
     return (
