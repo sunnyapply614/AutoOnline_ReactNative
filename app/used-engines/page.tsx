@@ -45,10 +45,6 @@ export default function Home() {
                 <h2 className="font-sans text-[#002E5B] text-[25px] font-extrabold uppercase mt-10">Engines, Transmissions And Other Auto Parts</h2>
                 <p className="text-[#686868] text-[17px] mt-8">Used Auto Parts Pro is the place to go if you need used auto parts. We have an extensive inventory of all makes and models, so we can help restore your vehicle with just what it needs!</p>
 
-                <h2 className="font-sans text-[#002E5B] text-[25px] font-extrabold uppercase mt-10">USED AUTO PARTS PRO OFFERS QUALITY USED ENGINES</h2>
-                <p className="text-[#686868] text-[17px] mt-8">You’ll never have to worry about finding that perfect used engine again! USED AUTO PARTS PRO has an extensive network of auto part yards and will get back to you as soon as possible on pricing for the one just right. Fill out our form now, so we can help save time in your day by providing quotes.</p>
-                <p className="text-[#686868] text-[17px] mt-8">We’ll get you the best price for your engine, no matter if it’s a local or imported vehicle. Whether truck/vanity camper style SUV’s are what you need we can find exactly which one will work with all of our customer’s needs in mind!</p>
-
                 <p className="text-[#686868] text-[17px] mt-10">We Carry Engines for the following Makes listed below:</p>
 
                 <ul className="grid lg:grid-cols-3 grid-cols-2 gap-2 mt-8 ml-4 list-disc list-inside">
