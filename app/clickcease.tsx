@@ -1,7 +1,6 @@
 "use client";
 import Script from "next/script";
 
-
 const ClickCease = () => {
     return (
         <>
@@ -22,4 +21,3 @@ const ClickCease = () => {
     );
 };
 
-export default ClickCease;
