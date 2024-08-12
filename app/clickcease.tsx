@@ -21,3 +21,4 @@ const ClickCease = () => {
     );
 };
 
+export default ClickCease;
