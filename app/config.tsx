@@ -3,9 +3,6 @@ export const ROUTES = [
     { caption: 'Used Auto Parts', href: '/used-auto-parts' },
     { caption: 'Used Transmissions', href: '/used-transmissions' },
     { caption: 'Used Engines', href: '/used-engines' },
-    // {caption: 'Questions', href: '/faq'},
-    // { caption: 'About', href: '/about' },
-    // { caption: 'Contact', href: '/contact' },
 ]
 
 export const YEAR = [
