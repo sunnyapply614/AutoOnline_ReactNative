@@ -1,7 +1,13 @@
 import PhoneIcon from '../components/PhoneIcon'
 import AccordionComponent from '../components/AccordionComponent'
 
-
+export const metadata = {
+    title: 'Frequently Asked Questions - Your Answers to Common Inquiries',
+    description: "We have compiled a list of frequently asked questions to provide you with quick and informative solutions. Get the information you need and make informed decisions effortlessly.",
+    alternates: {
+        canonical: 'https://usedautoparts.pro/faq'
+      }
+}
 
 export default function FAQ() {
     return (
