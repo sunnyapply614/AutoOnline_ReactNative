@@ -26,7 +26,23 @@ export default function FAQ() {
                 <h3 className="font-sans font-bold text-[36px] mt-5 text-[#002E5B] text-center">Exceptional Customer Service: Your Satisfaction, Our Priority</h3>
                 <div className='w-[50px] h-[4.5px] bg-primary mt-5 mb-10'></div>
 
-                
+                <div className='w-[80%]'>
+                    <p className='mb-5 text-text-primary  text-[18px]'>At Usedautoparts.pro, we take pride in delivering not just quality products, but also an unparalleled customer experience. Our dedicated team of customer service agents stands ready to assist you at every step of your journey.</p>
+
+                    <h3 className='mb-2 text-text-primary text-[24px] font-bold'>Personalized Assistance, Prompt Solutions</h3>
+                    <p className='mb-5 text-text-primary  text-[18px]'>We understand that each customer&apos;s needs are unique. That&apos;s why we provide you with personalized attention, ensuring you&apos;re directed to the most relevant department to swiftly address your queries and concerns.</p>
+
+                    <h3 className='mb-2 text-text-primary text-[24px] font-bold'>Convenient Hours for Your Convenience</h3>
+                    <p className='mb-5 text-text-primary  text-[18px]'>Your convenience matters to us. Our customer service operates from Monday to Friday, ensuring you have access to support when you need it. Our hours of operation are 8:00 am to 6:00 pm CST, allowing us to assist you during your busy schedule.</p>
+
+                    <h3 className='mb-2 text-text-primary text-[24px] font-bold'>Need Immediate Assistance? Reach Out!</h3>
+                    <p className='mb-2 text-text-primary  text-[18px]'>Have questions, need guidance, or seeking assistance? Feel free to connect with us directly at (888) 748-0882. Our dedicated helpline is your direct line to efficient solutions.</p>
+                    <p className='mb-5 text-text-primary  text-[18px]'>At Usedautoparts.pro, customer satisfaction isn&apos;t just a goal; it&apos;s our commitment. Experience customer service that goes beyond expectations. Your needs drive us, and your contentment fuels us.</p>
+
+
+                    {/* <p className='mb-2 text-text-primary  text-[20px]'>Directly Number - <Link href={CALL_TO_CUSTOMER} className="text-primary font-semibold hover:underline">{CUSTOM_PHONE_ADDR}</Link></p> */}
+                    {/* <p className='mb-2 text-text-primary  text-[20px] break-all text-center'>*************************************************************************************</p> */}
+                </div>
            
             </div>
         </main >
