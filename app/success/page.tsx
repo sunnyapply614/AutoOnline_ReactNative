@@ -11,10 +11,7 @@ const Success = function () {
             </section>
 
             
-            <h4 className="text-center text-[#002E5B] text-[28px] font-sans font-extrabold mt-12">Your message was sent successfully.</h4>
-            <h4 className="text-center text-[#002E5B] text-[28px] font-sans font-bold mt-4">We will contact soon…</h4>
-            <h4 className="text-center text-[#002E5B] text-[28px] font-sans font-bold mt-4">If you need immediate assistance,</h4>
-            <Link href={CALL_TO} className="text-center text-[#545454] text-[28px] font-sans mt-4 font-bold">{PHONE_NUMBER}</Link>
+
 
         </main>
     )
