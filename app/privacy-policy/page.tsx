@@ -2,13 +2,7 @@ import PhoneIcon from '../components/PhoneIcon'
 import { CALL_TO, EMAIL_ADDRESS, MAIL_TO, PHONE_NUMBER } from '../config'
 import Link from 'next/link'
 
-export const metadata = {
-    title: 'Privacy Policy - Your Trust is Our Priority in Safeguarding Your Data',
-    description: "Your privacy matters. Our policy ensures data security and transparency. Learn how we handle your information responsibly. Read our privacy policy for details.",
-    alternates: {
-        canonical: 'https://usedautoparts.pro/privacy-policy'
-      }
-}
+
 
 export default function FAQ() {
     return (
