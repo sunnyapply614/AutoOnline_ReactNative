@@ -1,6 +1,14 @@
 import FindPart from "./FindPart";
 
-
+interface Props {
+    title: string;
+    subTitle: string;
+    bgImageUrl: string;
+    selectedMake: string;
+    selectedPart: string;
+    bgAlt?: string;
+    bgTitle?: string;
+}
 
 const SubHeadComponent: React.FC<Props> = ({ title, subTitle, bgImageUrl, selectedMake, selectedPart, bgAlt, bgTitle }) => {
     return (
